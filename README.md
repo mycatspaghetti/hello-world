@@ -1,2 +1,5 @@
 # hello-world
-github bub
+
+i like eggs
+
+join me on my journey of learning web development
